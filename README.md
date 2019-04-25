@@ -1,16 +1,19 @@
 # dod_teste
 
-A new Flutter project.
+A new Flutter project for test DoD.
 
-## Getting Started
+## Pagina Inicial
+<img src="assets/Screenshot_1556206774.png"><br>
 
-This project is a starting point for a Flutter application.
+## Carregando foto
+<img src="assets/Screenshot_1556206796.png"><br>
 
-A few resources to get you started if this is your first Flutter project:
+## Analisando a Foto
+<img src="assets/Screenshot_1556206810.png"><br>
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+## Analises completadas
+<img src="assets/Screenshot_1556206815.png"><br>
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+
+
+
